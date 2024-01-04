@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+frameset{
+    border:0;
+}
+
+.header{
+    background: rgb(73, 118, 185);
+    
+}
+.nav{
+    background: rgb(88, 123, 177);
+}
+.link{
+    color: aliceblue;
+    font-weight: bold;
+}
+.link:hover{
+    color: black;
+}
+.service-back{
+    background: rgb(123, 166, 230);
+
+}
+.service{
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+   border: 2px black solid;
+   margin: 30px 15px;
+}
+.service:hover{
+    color: rgb(255, 255, 255);
+}
